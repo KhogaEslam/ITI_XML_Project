@@ -6,21 +6,11 @@ un-comment next line to validate with XSD, and don't forget to comment the previ
 <employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employees.xsd">
 -->
   <employee>
-    <name>Eslam</name>
-    <gender>male</gender>
+    <name>Eslam1</name>
+    <gender>other</gender>
     <phone>01220051999</phone>
     <email>KhogaEslam@Yahoo.com</email>
   </employee>
-  <employee>
-    <name>Maria Eslam</name>
-    <gender>female</gender>
-    <phone>012222222</phone>
-    <email>mrmr@khoga.com</email>
-  </employee>
-  <employee>
-    <name>Maimona Ahmed</name>
-    <gender>female</gender>
-    <phone>02222222222</phone>
-    <email>Maimona@khoga.com</email>
-  </employee>
+  
+  
 </employees>

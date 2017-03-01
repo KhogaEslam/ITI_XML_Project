@@ -348,7 +348,7 @@ ini_set('html_errors', true);
     $emp->deleteEmployee($name);
     $arr = $emp->getThemAll();
     $arrayCount = count($arr);
-    $counter = $arrayCount-1;
+    $counter = $arrayCount-1; //must be fixed
   }
   function searchEmp(){
     //echo "Hello search";
